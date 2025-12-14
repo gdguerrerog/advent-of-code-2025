@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/gdguerrerog/advent-of-code-2025#readme",
   "devDependencies": {
+    "@types/node": "^25.0.2",
     "typescript": "^5.9.3"
   }
 }
